@@ -34,7 +34,7 @@ ax2.set_ylabel('Frequency')
 plt.title('Proportion of Pairs With 10% Separation Versus Predicted Probability\nFor Suggested Method')
 
 fig.tight_layout()
-Print('Saving plot to: '+FILE_OUT)
+print('Saving plot to: '+FILE_OUT)
 plt.savefig(FILE_OUT)
 
 print(r2_score(true_percentage, pred_percentage))
