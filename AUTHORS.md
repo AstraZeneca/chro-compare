@@ -11,4 +11,4 @@ Supervised and advised by:
 
 ## Maintainer
 
-- Matthew L. Edge - mjle3@cam.ac.uk
+- Christoph Bauer - christoph.bauer@astrazeneca.com
